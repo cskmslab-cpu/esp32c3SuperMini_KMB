@@ -18,6 +18,6 @@ ESP32 C3pro super mini
 連上ESP-BusConfig 後，手動打開瀏覽器連 192.168.4.1，又會進入一個設定頁面。為提高安全，請在程式燒錄前，修改一下 WEB_USER 以及 WEB_PASS 兩個參數。
 為了避免AP ( ESP-BusConfig) 長期曝露 ，要開啟 ESP-BusConfig 要長按 BOOT 才重開，限時 10 分鐘
 進入後就可以通過輸入巴士站的stop_ID，路線，來修改路線。
-<img width="1080" height="2079" alt="Screenshot_20260715_173325_Chrome" src="https://github.com/user-attachments/assets/c4c53c97-4c9a-4720-b229-3eedca4a751e" />
+<img width="540" height="1040" alt="Screenshot_20260715_173325_Chrome" src="https://github.com/user-attachments/assets/c4c53c97-4c9a-4720-b229-3eedca4a751e" />
 
 程式是通過claude AI 處理。。。
